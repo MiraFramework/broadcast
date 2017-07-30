@@ -1,0 +1,15 @@
+{
+    "name": "miraframework/broadcast",
+    "description": "Service Provider for Mira Framework to add real time broadcasting support via pusher",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joseph Mancuso",
+            "email": "jmancuso.mil@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    }
+}
